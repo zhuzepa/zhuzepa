@@ -43,7 +43,7 @@
 <br/>  
 
 
-## Connect with me  
+## Для связи
 <a href="https://instagram.com/lesha_bibo" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -55,7 +55,7 @@
 <br/>  
 
 
-## Github Stats  
+## Статистика 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuzepa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
