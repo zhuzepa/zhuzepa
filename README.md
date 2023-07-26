@@ -38,12 +38,17 @@
 <a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="75" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 </div>
-  
+
+
+
+
+
+</td></tr></table>  
 
 <br/>  
 
 
-## Для связи
+## Для связи  
 <a href="https://instagram.com/lesha_bibo" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -52,8 +57,7 @@
 </a>  
   
 
-<br/>  
-
+<br/> 
 
 ## Статистика 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuzepa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
