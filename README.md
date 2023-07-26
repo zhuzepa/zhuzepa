@@ -1,7 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 ### <div align="center">Привет, друг, я Алексей Принц, занимаюсь ручным и немного автоматизированным 👨‍💻 спасаю продакшены с 2019 года🚀</div>  
   
@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Технологии
 <table><tr><td valign="top" width="33%">
 
 
@@ -52,7 +52,7 @@
 <br/>  
 
 
-## Connect with me  
+## Социальные сети
 <div align="center">
 <a href="https://github.com/zhuepa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -60,7 +60,11 @@
 <a href="https://instagram.com/lesha_bibo" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<!-- <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
 </div>  
+
   
 
 <br/>  
@@ -79,7 +83,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
@@ -90,13 +94,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
