@@ -1,80 +1,33 @@
-### <div align="center">Привет, друг, я Алексей Принц, занимаюсь ручным и немного автоматизированным тестированинем 🕵️ спасаю продакшены с 2019 года🚀</div>  
-  
+<h1 align="center">Привет, друг, я <a href="https://daniilshat.ru/" target="_blank">Алексей</a> </h1>
+<h3 align="center"> Занимаюсь ручным и автоматизированным тестированинем 🕵️ спасаю продакшены с 2019 года🚀</h3>
 
-- 🔭Сейчас я работаю над проектом [БеруВагон](https://bv.pgk.ru/)  
-  
+- ⚡ Сейчас я активно изучаю **Python, API, UI и все что с этим связанно**
+- 🐞 Занимаюсь тестированием **WEB, Mobile (iOS and Android) and API 👨🏽‍💻**
 
-- 🌱Изучаю автоматизацию тестирования на Python 🐍  
-  
+### Связаться со мной можно:
+<p align="left">
+<a href="https://www.linkedin.com/in/princeaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkdin" height="40" width="40" /></a>
+<a href="https://t.me/zhuzepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="zhuzepa" height="40" width="40" /></a>
+<a href="https://www.instagram.com/lesha_bibo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="lesha_bibo" height="40" width="40" /></a>
+<a href="mailto:zhuzepa@yadnex.ru" target="blank"><img align="center" src="https://img.icons8.com/keek/400/experimental-new-post-keek.png" alt="mail" height="70" width="40" /></a>
+</p>
 
-- ❓ Спрашивайте меня о ручном тестировании
+### Языки:
+<p align="left"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-zhuzepa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhuzepa) 
+### Tools:
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" alt="android studio" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" alt="gitlub" width="40" height="40"/> </a> 
+</p>
 
-<br/>  
-
-
-## Технологии 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" width="60"/>                       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" width="60" />            
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="60" width="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="60" width="60" />     
-<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="60" width="60" /></a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60" width="60" />
-           
-</div>
-
-
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Для связи  
-<a href="https://instagram.com/lesha_bibo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19043658/lesha-prince" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/> 
-
-## Статистика 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuzepa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
- 
-
-  
-
-<br/>  
-
-  
-  
-
-<br/>  
-
-
-<br />
