@@ -31,3 +31,7 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" alt="gitlub" width="40" height="40"/> </a> 
 </p>
 
+### Статистика 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuzepa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
