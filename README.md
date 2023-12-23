@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/princeaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkdin" height="40" width="40" /></a>
 <a href="https://t.me/zhuzepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="zhuzepa" height="40" width="40" /></a>
 <a href="https://www.instagram.com/lesha_bibo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="lesha_bibo" height="40" width="40" /></a>
-<a href="mailto:zhuzepa@yadnex.ru" target="blank"><img align="center" src="https://img.icons8.com/keek/400/experimental-new-post-keek.png" alt="mail" height="70" width="40" /></a>
+<a href="mailto:zhuzepa@yadnex.ru" target="blank"><img align="center" src="design/icons/icons8-yandex-mail-67.png" alt="mail" height="40" width="40" /></a>
 </p>
 
 ### Языки:
@@ -23,7 +23,9 @@
 <p align="left"> 
 <a href="https://www.selenium.dev/selenium-ide/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://docs.pytest.org/en/7.4.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://requests.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="design/icons/requests-sidebar.png" alt="requests" width="40" height="40"/> </a>
+<a href="https://allurereport.org/" target="_blank" rel="noreferrer"> <img src="design/icons/allure.png" alt="allure" width="40" height="40"/> </a>
+<a aref="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" alt="android studio" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/> </a> 
