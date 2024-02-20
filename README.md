@@ -21,6 +21,9 @@
 
 ### Инструменты:
 <p align="left"> 
+
+
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="design/icons/selenium-svgrepo-com.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://yashaka.github.io/selene/" target="_blank" rel="noreferrer"> <img src="design/icons/selene.png" alt="selene" width="40" height="40"/> </a> 
 <a href="https://docs.pytest.org/en/7.4.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/> </a> 
 <a href="https://requests.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="design/icons/requests-sidebar.png" alt="requests" width="40" height="40"/> </a>
