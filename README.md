@@ -7,7 +7,7 @@
 ### Связаться со мной можно:
 <p align="left">
 <a href="https://www.linkedin.com/in/princeaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkdin" height="40" width="40" /></a>
-<a href="https://t.me/zhuzepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="zhuzepa" height="40" width="40" /></a>
+<a href="https://t.me/alexey_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="@alexey_prince" height="40" width="40" /></a>
 <a href="https://www.instagram.com/lesha_bibo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="lesha_bibo" height="40" width="40" /></a>
 <a href="mailto:zhuzepa@yadnex.ru" target="blank"><img align="center" src="design/icons/icons8-yandex-mail-67.png" alt="mail" height="40" width="40" /></a>
 </p>
